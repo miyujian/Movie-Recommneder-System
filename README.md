@@ -10,4 +10,4 @@ use Long Short-Term Memory (LSTM) to train, refine and experiment our model
 on Movielens dataset. The experiment results indicate high performance in terms of
 accuracy of predictions and generate reliable personalized movie recommendations.
 
-![](Report.pdf)
+![Full Report](Report.pdf)
